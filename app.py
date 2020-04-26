@@ -12,7 +12,7 @@ from gevent.pywsgi import WSGIServer
 import tensorflow as tf
 from tensorflow import keras
 import tensorflow_hub as hub
-#import tensorflow_text
+import tensorflow_text
 import timestamp
 # Some utilites
 import numpy as np
