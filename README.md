@@ -1,4 +1,5 @@
 # midas
+# Not Maintained!
 
 * data_explore.ipynb contains data exploration process undertaken
 * scraping.ipynb contains final code used for scraping data
