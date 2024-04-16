@@ -1,7 +1,7 @@
 Werkzeug
 Flask
 gevent
-tensorflow==1.14
+tensorflow==2.11.1
 tensorflow-hub==0.8.0
 requests==2.31.0
 psaw==0.0.12
